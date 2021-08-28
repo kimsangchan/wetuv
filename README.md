@@ -14,3 +14,4 @@
 /videos/:id/edit -> Edit Video
 /videos/:id/delete -> Delete Video
 /videos/upload -> Upload Video
+# wetuv
